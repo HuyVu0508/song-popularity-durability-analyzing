@@ -24,7 +24,7 @@ The model fitted is illustrated in the image below:
 
 ## Detecting Over/Underperform Songs
 We detect overperform/underperform songs by choosing out songs that have ground-truth popularity too higher or too lower than the predicted popularity. The image below illustrates how we point out overperform/underperform songs.
-![Optional Text](../master/illustrations/github_pic2.JPG | width=48) 
+![Optional Text](../master/illustrations/github_pic2.JPG) 
 
 ## Analyzing Over/Underperform Songs
 By studying songs that are classified as over/underperform songs as defined by our method in section 4, we find many interesting characteristics of these songs. Analyzing about 100 songs,  50 of them are overperform songs, the other are underperform songs, we find that songs’s durability can be explained by two main sets of factors:
