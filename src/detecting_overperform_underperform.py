@@ -1,4 +1,4 @@
-# This file is used to analyze data, learning function to approxiamate song's popualarity
+# Analyzing data, learning function to approxiamate song's popualarity
 
 import numpy as np   
 import pickle 
