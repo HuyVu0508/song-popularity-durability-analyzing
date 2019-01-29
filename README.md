@@ -19,12 +19,12 @@ Our initial guess is that a song's current popularity is:
 - Exponentially inversely proportional with the time it was released. The older the song is, the less popular now.
 We then take log of the equation to make it a linear equation, and then use linear regression to compute the fittest variables. 
 The model fitted is illustrated in the image below:
-![Optional Text](../master/illustrations/github_pic1.png)
+![Optional Text](../master/illustrations/github_pic1.JPG)
 
 
 ## Detecting Over/Underperform Songs
 We detect overperform/underperform songs by choosing out songs that have ground-truth popularity too higher or too lower than the predicted popularity. The image below illustrates how we point out overperform/underperform songs.
-![Optional Text](../master/illustrations/github_pic2.png)
+![Optional Text](../master/illustrations/github_pic2.JPG)
 
 
 ## Analyzing Over/Underperform Songs
