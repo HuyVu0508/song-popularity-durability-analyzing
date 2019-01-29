@@ -1,3 +1,5 @@
+# Implementing important functions used in project
+
 import matplotlib.pyplot as plt
 import matplotlib
 import datetime
