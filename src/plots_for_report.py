@@ -1,3 +1,5 @@
+# Plotting figures for reporting
+
 import song_functions
 import pickle
 import matplotlib.pyplot as plt
@@ -134,44 +136,4 @@ for i in testing_ranks:
     plt.plot(time_variable_val, popularity_predicted, color = "r", linestyle = '-', label="Predicted popularity")    
     plt.legend(fontsize=20)    
     plt.tight_layout()
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
