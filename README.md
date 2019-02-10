@@ -17,6 +17,7 @@ We choose Youtube views count as our main popularity measurement. The main reaso
 Our initial guess is that a song's current popularity is:
 - Exponentially propotional to BillBoard ranking when it was released. The higher the rank was, the more popular now. 
 - Exponentially inversely proportional with the time it was released. The older the song is, the less popular now.
+
 We then take log of the equation to make it a linear equation, and then use linear regression to compute the fittest variables. 
 The model fitted is illustrated in the image below:
 ![Optional Text](../master/illustrations/github_pic1.JPG)
