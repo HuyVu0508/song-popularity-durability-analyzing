@@ -18,7 +18,7 @@ Our initial guess is that a song's current popularity is:
 - Exponentially propotional to BillBoard ranking when it was released. The higher the rank was, the more popular now. 
 - Exponentially inversely proportional with the time it was released. The older the song is, the less popular now.
 
-We then take log of the equation to make it a linear equation, and then use linear regression to compute the fittest variables. 
+We then take log of the equation to make it a linear equation, and then use linear regression to compute the fitting variables. 
 The model fitted is illustrated in the image below:
 ![Optional Text](../master/illustrations/github_pic1.JPG)
 
@@ -41,7 +41,7 @@ Studying over/underperform songs, we find there are some main special occasional
 - Famous cover of a record
 ### Songs’s Durability Explained by Metadata of Songs
 Analyzing the One-Million Song Dataset, we test the effect on durability of each important feature of a song, including: Tempo, Duration,	Song hotness,	Loudness,	Artist hotness,	Genre.
-We find out that the most important factor is artist hotness. This is the main factor deciding whether a song will be over/underperform. We will analyze as well as show examples for this factor’s influence on songs’ durability below.
+We find out that the most important factor is artist hotness. This is the main factor deciding whether a song will be over/underperform. We analyzed as well as show examples for this factor’s influence on songs’ durability in the report.
 On the other hand, other factors (tempo, duration, genre,…) are found to not have significant impact on a song’s performance through time. Indeed, as Figure 13 (in the report file) shows, there is not much differences in these features of an over/underperform song with a usual song.
  
 
