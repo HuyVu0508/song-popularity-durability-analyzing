@@ -59,7 +59,7 @@ Our findings point out that the most important factors for a song’s performanc
 
 [4]    S. Homan, “Popular music and cultural memory: Localised popular music histories and their significance for national music industries: data,” 2012.
 
-[5]    Y. Kim, B. Suh, and K. Lee, “# nowplaying the future billboard: mining music listening behaviors of twitter users for hit song prediction,” in Proceedings of the first international workshop on Social media retrieval and analysis. ACM, 2014. pp. 51-56.
+[5]    Y. Kim, B. Suh, and K. Lee, “# nowplaying the future billboard: mining music listening behaviors of twitter users for hit song prediction” in Proceedings of the first international workshop on Social media retrieval and analysis. ACM, 2014. pp. 51-56.
 
 [6]    J. Berger, and G. Packard, “Are Atypical Things More Popular?”
 
