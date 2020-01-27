@@ -46,7 +46,7 @@ On the other hand, other factors (tempo, duration, genre,…) are found to not h
  
 
 ## Conclusion
-Our findings point out that the most important factors for a song’s performance is the “brand” of the artist. This observation can be illustrated by many examples. Other factors also very important are special occasion and temporary trending such as death of an artist, releasing of a movie relating to the artist. All of the factors combining together helps a song over/underperform comparing to other songs released at the same time, at the same specific Billboard ranking.  
+Our findings point out that the most important factors for a song’s performance is the “brand” of the artist. This observation can be illustrated by many examples.  Other factors also very important are special occasion and temporary trending such as death of an artist, releasing of a movie relating to the artist. All of the factors combining together helps a song over/underperform comparing to other songs released at the same time, at the same specific Billboard ranking.  
 
 
 
